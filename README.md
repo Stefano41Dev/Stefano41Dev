@@ -1,10 +1,15 @@
 ## Hello Word 👋
+### Conoce más de mi 📫
 ## Lenguajes
   - Java
   - C#
   - Javascript
   - SQL
   - Typescript
+## Base de datos
+  - MySQL
+  - SQL
+  - MongoDB
 ## Frameworks Backend
   - Spring Framework
   - .Net
