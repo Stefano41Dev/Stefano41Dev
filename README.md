@@ -1,5 +1,13 @@
-## Hi there 👋
-
+## Hello Word 👋
+## Lenguajes
+  - Java
+  - C#
+  - Javascript
+  - SQL
+  - Typescript
+## Frameworks Backend
+  - Spring Framework
+  - .Net
 <!--
 **Stefano41Dev/Stefano41Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
