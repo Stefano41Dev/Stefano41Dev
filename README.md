@@ -1,4 +1,4 @@
-## Hello Word 👋
+## Hello World 👋
 ### Conoce más de mi 📫
 ## Lenguajes
   - Java
